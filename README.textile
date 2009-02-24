@@ -6,6 +6,10 @@ A Flex 3 component that prevents the default tab switching in the standard TabNa
 
 Useful in using controllers to handle the switching of tabs.
 
+h3. INSTALLATION:
+
+git submodule add git@github.com:camwest/preventable-tabnavigator.git app/flex/com/bigbangtechnology/preventableTabNavigator
+
 h3. LICENSE:
 
 Copyright (c) 2008 Big Bang Technology Inc.
